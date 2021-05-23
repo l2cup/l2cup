@@ -8,8 +8,8 @@ l2cup
 > pwd
 github.com/l2cup
 > ls languages
-c javascript typescript go java python
+go c javascript typescript java python
 > ls -a technologies
-.git node.js mongodb sql docker microservices unix vue
+.git mongodb postgresql redis timescaledb docker swarm ansible nodejs
 > ls repositories/pinned
 ```
